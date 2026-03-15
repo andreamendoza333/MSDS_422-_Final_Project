@@ -21,7 +21,7 @@ Winter, 2026<br>
 <hr>
 
 <p align="center">
-The Yelp dataset can be found at:<br>
+The Yelp dataset files are too large for github storage, but can be downloaded at:<br>
 https://business.yelp.com/data/resources/open-dataset/
 </p>
 
