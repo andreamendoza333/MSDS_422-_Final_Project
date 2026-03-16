@@ -20,9 +20,32 @@ Winter, 2026<br>
 
 <hr>
 
-<p align="center">
-The Yelp dataset files are too large for github storage, but can be downloaded at:<br>
-https://business.yelp.com/data/resources/open-dataset/
+
+### 📂 Data Availability
+
+Due to file size limitations, the raw data files are not stored in this repository.  
+They can be accessed from the official Yelp Open Dataset here:
+
+👉 **[Yelp Open Dataset](https://business.yelp.com/data/resources/open-dataset/)**
+
+---
+
+### 🔎 Data Preparation Scope
+
+To focus the analysis and improve processing efficiency:
+
+- Only businesses categorized as **"Restaurants"** were included.
+- Reviews were filtered to include only those associated with restaurant businesses.
+- The analysis timeframe was limited to reviews from **January 1, 2018 through 2022**.
+
+---
+
+### 🧹 Data Cleaning
+
+The dataset was cleaned using the following steps:
+
+- Removed duplicate records from the **Reviews dataset**.
+- Excluded restaurant entries that did not contain an **average review rating**.
 </p>
 
 <hr>
