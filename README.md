@@ -1,4 +1,4 @@
-# MSDS-422-Final-Project
+## MSDS-422-Final-Project
 
 
 <p align="center">
@@ -49,3 +49,15 @@ The dataset was cleaned using the following steps:
 </p>
 
 <hr>
+
+
+<h2 align="center"><b>Light Gradient Boosting Machhine Feature Importance Visual</b></h2>
+
+![](Feature%20Importance.png)
+
+
+<h2 align="center"><b>Support Vector Machine Decision Boundary</b></h2>
+
+
+
+![](SVM%20Decision%20Boundary.png)
